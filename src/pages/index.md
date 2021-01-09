@@ -5,8 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      I’m ely & I make creative solutions to technological, human +
-      communication problems
+      I’m ely & I creative solutions to technological, human + communication
+      problems
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
