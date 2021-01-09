@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      I’m ely & I design + icreative solutions to technological, human +
+      I’m ely & I design + develop creative solutions to technological, human +
       communication problems
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
