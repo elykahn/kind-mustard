@@ -14,7 +14,7 @@ sections:
       - label: Get in Touch
         url: /contact
         style: button
-        new_window: true
+        new_window: false
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
